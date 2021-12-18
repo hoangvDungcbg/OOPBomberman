@@ -1,0 +1,4 @@
+--patch-module
+main.bomberman=_
+--add-reads
+main.bomberman=ALL-UNNAMED
